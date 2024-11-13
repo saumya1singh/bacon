@@ -444,6 +444,44 @@
         ]
     },
     {
+        "name": "Public Domain",
+        "textUrl": "http://repository.jboss.org/licenses/cc0-1.0.txt",
+        "url": "http://repository.jboss.org/licenses/cc0-1.0.txt",
+        "aliases": [
+            "Public Domain",
+            "Public Domains"
+        ],
+        "urlAliases": [
+            "http://repository.jboss.org/licenses/cc0-1.0.txt"
+        ]
+    },
+    {
+        "name": "FSF All Permissive License",
+        "textUrl": "https://spdx.org/licenses/FSFAP.html",
+        "url": "https://spdx.org/licenses/FSFAP.html",
+        "aliases": [
+            "FSF All Permissive License"
+        ],
+        "urlAliases": [
+            "https://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html"
+        ]
+    },
+    {
+        "name": "GNU General Public License",
+        "textUrl": "http://www.gnu.org/licenses/gpl.txt",
+        "url": "http://www.gnu.org/licenses/gpl.txt",
+        "aliases": [
+            "GNU Lesser General Public License v3.0 or later",
+            "GNU Lesser General Public License v30 only",
+            "FSF All Permissive License"
+        ],
+        "urlAliases": [
+            "https://www.gnu.org/licenses/gpl-3.0.txt",
+            "https://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html",
+            "https://spdx.org/licenses/FSFAP.html"
+        ]
+    },
+    {
         "name": "GNU Lesser General Public License v2.1 or later",
         "textUrl": "https://raw.githubusercontent.com/project-ncl/bacon/main/static-resources/deprecated_LGPL-2.1+.txt",
         "url": "http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
